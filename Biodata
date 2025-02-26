@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body bgcolor="silver">
+   
+   
+
+<format align="center">
+    <u><h1>MY PROFILE</h1></u>    </format> <hr>
+
+           <div class="horizontal-line"></div>
+
+         <img src="1.jpg" alt="parth" height="200" width="150" align="right">
+     <h3> NAME: PARTH KATKAR </h3>
+    <p>    |Email:parthkatkar154@gmail.com| <br><br>
+           |Phone: +91-7709274395| <br><br>
+           |GitHub:parthkatkar07 |<br><br>
+           |LinkedIn:Parth Katkar| <br><br> </p>  <hr>
+
+    <format align="center"> <h2>EDUCATION</h2> 
+    <p>
+        <strong>Pimpri Chinchwad University, Pune, India</strong><br>
+        B.Tech in Computer Science and Engineering Core<br>
+        GPA: 8.10/10.0<br>
+        Expected graduation: May 2028
+    </p>
+    </format>
+
+
+<table>
+<tbody>
+<tr>
+<th>Sr No.</th>
+<th>College</th>
+<th>Board</th>
+<th>Percentage</th>
+<th>Year</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Vivekananda Academy of Human Excellence, Chimangaon</td>
+<td>HSC</td>
+<td>85%</td>
+<td>2022</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Disha Public School & Junior College, Wai</td>
+<td>SSC</td>
+<td>91%</td>
+<td>2024</td>
+</tr>
+</tbody>
+</table> 
+<hr>
+
+   <format align="center"> <h2>TECHNICAL SKILLS</h2> </format>
+    <p>
+        <strong>Programming Languages:</strong> <li>Java,</li> <li>Python,</li> <li>C#</li><br>
+        <strong>Front-End:</strong> <li>HTML,</li> <li>CSS,</li> <li>JavaScript</li><br>
+    </p>  <hr>
+
+  <format align="center">  <h2>CERTIFICATES</h2>  </format>
+    <p> 
+        <strong>Certificate on Foundation of Cybersecurity – Coursera</strong><br>
+<strong>Certificate on Write Smarter with Overleaf and Latex - Coursera</strong><br>
+        <em>June 2024</em> 
+    </p>
+
+
+</body>
+</html>
